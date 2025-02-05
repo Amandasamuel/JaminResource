@@ -4,17 +4,11 @@ const About = () => {
     <div className="min-h-screen">
       {/* Hero Section with Video Background */}
       <div className="relative h-[60vh]">
-        <video
-          autoPlay
-          muted
-          loop
-          className="absolute inset-0 w-full h-full object-cover"
-        >
-          <source
-            src="https://assets.mixkit.co/videos/preview/mixkit-modern-house-interior-4440-large.mp4"
-            type="video/mp4"
+      <img
+            src="https://images.unsplash.com/photo-1487958449943-2429e8be8625"
+            alt="Modern building"
+            className="rounded-lg h-96 w-full object-cover"
           />
-        </video>
         <div className="absolute inset-0 bg-black/50 flex items-center">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-white">
             <h1 className="text-4xl md:text-6xl font-bold mb-4">About Us</h1>

@@ -68,3 +68,4 @@ Simply open [Lovable](https://lovable.dev/projects/d6a03939-548b-4bcc-a265-991c0
 
 We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
 # JaminResource
+# JaminResource

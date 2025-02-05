@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button";
+import background from "../components/images/background.mp4"
 import {
   Carousel,
   CarouselContent,
@@ -68,7 +69,7 @@ const Home = () => {
           className="absolute inset-0 w-full h-full object-cover"
         >
           <source
-            src="https://assets.mixkit.co/videos/preview/mixkit-living-room-in-a-modern-house-4456-large.mp4"
+            src={background}
             type="video/mp4"
           />
         </video>
