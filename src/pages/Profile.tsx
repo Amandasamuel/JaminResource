@@ -62,11 +62,11 @@ const Profile = () => {
               <h3 className="text-xl font-semibold mb-4">Contact Information</h3>
               <div className="space-y-2">
                 <p>
-                  <span className="font-semibold">Address:</span> 123 Real Estate
-                  Ave, City, State 12345
+                  <span className="font-semibold">Address:</span> JaminResource
+                  Opposite Old Library,<br/> Jos, Nigeria
                 </p>
                 <p>
-                  <span className="font-semibold">Phone:</span> (555) 123-4567
+                  <span className="font-semibold">Phone:</span> (+234) 8169706962
                 </p>
                 <p>
                   <span className="font-semibold">Email:</span>{" "}
