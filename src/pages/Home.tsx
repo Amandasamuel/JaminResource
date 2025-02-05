@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button";
+import { Link } from "react-router-dom";
 import background from "../components/images/background.mp4"
 import {
   Carousel,
@@ -86,7 +87,7 @@ const Home = () => {
             size="lg"
             className="bg-accent hover:bg-accent/90 text-primary"
           >
-            View Properties
+             <Link to="/projects"> View Properties</Link>
           </Button>
         </div>
       </div>
